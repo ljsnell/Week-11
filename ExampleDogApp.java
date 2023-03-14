@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class DogApp {
+class ExampleDogApp {
 	 static String status1(String [] info) 
 	 {
 		String message = "Hi. My name is "+ info[0] +".";
