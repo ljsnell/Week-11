@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class PlusOne {
+class ExamplePlusOne {
 	public static int[] plusOne(int[] digits) {
 		
 		int size;
